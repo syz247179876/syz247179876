@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 247179876@qq.com
 - 😄 name: 司云中
 - ⚡ country: China
-- 🌱 Blog: [MyBlog](syzzjw.cn/home_page)
+- 🌱 Blog: [MyBlog](https://syzzjw.cn/home_page)
