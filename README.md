@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Django, FastApi, MachineLearning, Mongodb
+- 📫 How to reach me: 247179876@qq.com
+- 😄 Pronouns: syz
