@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Django, FastApi, MachineLearning, Mongodb
 - 📫 How to reach me: 247179876@qq.com
-- 😄 Pronouns: syz
+- 😄 name: 司云中
+- ⚡ country: China
+- 🌱 Blog: [MyBlog](syzzjw.cn/home_page)
