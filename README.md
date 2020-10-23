@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syz247179876&show_icons=true&hide_title=true">
 
-- 🌱 I’m currently learning Django, FastApi, MachineLearning, Mongodb
+- 🌱 I’m currently learning Django, Flask, FastApi, MachineLearning, Mongodb
 - 📫 How to reach me: 247179876@qq.com
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
