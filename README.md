@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 247179876@qq.com
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
-- 🌱 Blog: [https://syzzjw.cn/home_page](https://syzzjw.cn/home_page)
+- 🌱 Blog: [https://syzzjw.cn/](https://syzzjw.cn/)
 
 
 ### Welcome, Friends!
