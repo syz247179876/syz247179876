@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syz247179876&show_icons=true&hide_title=true">
 
 - 🌱 I’m currently learning Django, Flask, FastApi, MachineLearning, Mongodb,Rabbitmq
-- 📫 How to reach me: 247179876@qq.com
+- 📫 How to reach me: email:247179876@qq.com,QQ:247179876
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
 - 🌱 Blog: [https://syzzjw.cn/](https://syzzjw.cn/)
