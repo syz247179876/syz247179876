@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email:247179876@qq.com,QQ:247179876
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
-- 🌱 Blog: [https://hexo-syz247179876.vercel.app/](https://hexo-syz247179876.vercel.app/)
+- 🌱 Blog: [https://syzblog.cn/](https://syzblog.cn/)
 
 
 ### Welcome, Friends!
