@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
 - 🌱 Blog: [https://syzblog.cn/](https://syzblog.cn/)
+- 🔭 Reserch Direction:  Object Dectection in CV
 
 
 ### Welcome, Friends!
