@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email:247179876@qq.com,QQ:247179876
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
-- 🌱 Blog: [https://syzblog.cn/](https://syzblog.cn/)
+- 🌱 Blog: [https://syz247179876.github.io/](https://syz247179876.github.io/)
 - 🔭 Reserch Direction:  Object Dectection in CV
 
 
