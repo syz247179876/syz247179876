@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 name: 司云中(Yunzhong Si)
 - ⚡ country: China
 - 🌱 Blog: [https://syz247179876.github.io/](https://syz247179876.github.io/)
-- 🔭 Reserch Direction:  Object Dectection, VLLM
+- 🔭 Reserch Direction:  VLLM, Object Dectection
 
 
 ### Welcome, Friends!
